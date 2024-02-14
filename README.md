@@ -26,3 +26,9 @@ and solve it as we did in the lectures. Give the final $\Theta$ complexity.
 
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. Add your answer to this markdown file.
+
+## Answer
+
+The time complexity for the algorithm would be $\Theta$(n) since dividing the list
+into three can be done in linear time and adding them all back up is also done in
+linear time.
